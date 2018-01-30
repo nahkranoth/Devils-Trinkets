@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: deec82a1d0ea4ca4fb9838323a94a8f2
+timeCreated: 1476190506
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - prefabInventoryTransfer: {fileID: 1000013491956920, guid: 4ba40d30d33de424b847c46a15076d78,
+      type: 2}
+  - prefabButton: {fileID: 1000011255302188, guid: 8041699d44abb414ca2d157b823bb62a,
+      type: 2}
+  - prefabIconButton: {fileID: 1000013856444838, guid: 8c1ccff00d7a291438a34a18b4552e8c,
+      type: 2}
+  - prefabScrollList: {fileID: 1000010619572350, guid: 61d41d8320f288c4faaa171e7905b94d,
+      type: 2}
+  - prefabTextField: {fileID: 1000010959658502, guid: 9ae0248e1d3aa43479677b745e8b2eca,
+      type: 2}
+  - scrollGridItem: {fileID: 1000013912164942, guid: 26e8876a70183d745b9403e8285dc7f6,
+      type: 2}
+  - prefabPlayerInventory: {fileID: 1000013491956920, guid: 8456c8acbf1e10a47ab8471f7dd09b76,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
